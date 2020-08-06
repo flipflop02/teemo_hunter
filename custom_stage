@@ -1,0 +1,2 @@
+type:hp:speed:start:time:xsize:ysize:animationframe:texture:scale:damage:drop
+MONSTER:100:1:0:0:64:128:3:src/textures/minion4.png:15:40:100

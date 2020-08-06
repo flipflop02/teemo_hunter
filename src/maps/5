@@ -1,0 +1,12 @@
+type:hp:speed:start:time:xsize:ysize:animationframe:texture:scale:damage:drop
+MONSTER:250:1:20:0:160:190:0:src/textures/quentin.martina.png:2.5:5:10
+MONSTER:1:8:100:50:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:8:150:60:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:10:600:70:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:8:230:80:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:8:500:90:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:10:20:110:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:8:10:110:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:10:600:110:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:8:220:120:60:80:0:src/textures/arthur.bielle.png:1:1:1
+MONSTER:1:10:400:130:60:80:0:src/textures/arthur.bielle.png:1:1:1

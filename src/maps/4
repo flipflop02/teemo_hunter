@@ -1,0 +1,13 @@
+type:hp:speed:start:time:xsize:ysize:animationframe:texture:scale:damage:drop
+MONSTER:8:3:10:0:64:28:3:src/textures/minion2.png:2.8:2:2
+MONSTER:8:3:208:21:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:403:32:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:305:53:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:107:27:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:4:310:92:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:410:89:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:25:115:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:70:67:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:4:191:89:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:3:88:135:64:28:3:src/textures/minion2.png:2.5:2:2
+MONSTER:8:4:500:150:64:28:3:src/textures/minion2.png:3.5:2:2
